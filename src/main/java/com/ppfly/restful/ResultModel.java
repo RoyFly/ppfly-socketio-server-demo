@@ -1,4 +1,4 @@
-package com.springboot.restful;
+package com.ppfly.restful;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

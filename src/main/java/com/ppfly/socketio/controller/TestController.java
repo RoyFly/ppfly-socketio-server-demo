@@ -1,8 +1,8 @@
-package com.springboot.socketio.controller;
+package com.ppfly.socketio.controller;
 
-import com.springboot.restful.ResultModel;
-import com.springboot.socketio.message.MessageInfo;
-import com.springboot.socketio.service.SocketIOService;
+import com.ppfly.restful.ResultModel;
+import com.ppfly.socketio.message.MessageInfo;
+import com.ppfly.socketio.service.SocketIOService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

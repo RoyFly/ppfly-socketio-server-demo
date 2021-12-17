@@ -1,6 +1,6 @@
-package com.springboot.socketio.service;
+package com.ppfly.socketio.service;
 
-import com.springboot.socketio.message.MessageInfo;
+import com.ppfly.socketio.message.MessageInfo;
 
 public interface SocketIOService {
 

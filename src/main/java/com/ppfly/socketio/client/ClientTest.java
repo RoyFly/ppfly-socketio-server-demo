@@ -1,4 +1,4 @@
-package com.springboot.socketio.client;
+package com.ppfly.socketio.client;
 
 import cn.hutool.core.date.DateUtil;
 import io.socket.client.IO;

@@ -1,4 +1,4 @@
-package com.springboot.utils;
+package com.ppfly.utils;
 
 import org.yaml.snakeyaml.Yaml;
 

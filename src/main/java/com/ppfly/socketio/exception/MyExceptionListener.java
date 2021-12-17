@@ -1,4 +1,4 @@
-package com.springboot.socketio.exception;
+package com.ppfly.socketio.exception;
 
 import com.corundumstudio.socketio.listener.ExceptionListenerAdapter;
 import io.netty.channel.ChannelHandlerContext;

@@ -1,9 +1,9 @@
-package com.springboot.socketio.conf;
+package com.ppfly.socketio.conf;
 
 import com.corundumstudio.socketio.SocketConfig;
 import com.corundumstudio.socketio.SocketIOServer;
 import com.corundumstudio.socketio.annotation.SpringAnnotationScanner;
-import com.springboot.socketio.exception.MyExceptionListener;
+import com.ppfly.socketio.exception.MyExceptionListener;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

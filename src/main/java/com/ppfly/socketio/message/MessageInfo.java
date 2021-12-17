@@ -1,4 +1,4 @@
-package com.springboot.socketio.message;
+package com.ppfly.socketio.message;
 
 import lombok.*;
 
