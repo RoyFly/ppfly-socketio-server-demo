@@ -29,9 +29,9 @@ public class TestController {
             socketIOService.send("testSendEvent", MessageInfo.builder().sessionId(sessionId).content("服务器主动推送-推送给单一客户端").build());
         } catch (Exception e) {
             e.printStackTrace();
-            return "推送失败";
+            return "errorerrorerrorerror";
         }
-        return "推送成功";
+        return "okokokokokokokokokokokokokokokokokokokok";
     }
 
     /**

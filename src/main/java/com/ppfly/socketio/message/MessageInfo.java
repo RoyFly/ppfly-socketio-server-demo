@@ -40,6 +40,11 @@ public class MessageInfo {
     private String content;
 
     /**
+     * 消息超链接
+     */
+    private String url;
+
+    /**
      * 接受者登录名
      */
     private String receiver;
