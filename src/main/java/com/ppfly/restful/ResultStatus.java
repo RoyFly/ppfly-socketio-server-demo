@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
 public enum ResultStatus {
-    SUCCESS(100, "成功"), ERROR(-1100, "失败");
+    SUCCESS(100, "成功"), ERROR(-100, "失败");
 
     /**
      * 返回码
