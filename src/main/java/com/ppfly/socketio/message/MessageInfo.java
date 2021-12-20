@@ -35,6 +35,11 @@ public class MessageInfo {
     private String clientIp;
 
     /**
+     * 消息标题
+     */
+    private String title;
+
+    /**
      * 消息内容
      */
     private String content;
